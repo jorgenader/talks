@@ -1,4 +1,4 @@
-# Switching mindset to async
+# The async mindset
 
 ## Meta
 
