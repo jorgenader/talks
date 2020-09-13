@@ -6,7 +6,7 @@
 |-|-|
 | **Conference** | PyCon Estonia 2020 |
 | **Timing** | 30min |
-| **Status** | draft |
+| **Status** | accepted |
 
 ## Description
 
